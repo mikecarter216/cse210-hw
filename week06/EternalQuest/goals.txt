@@ -1,0 +1,4 @@
+0
+Eternal,Give a talk,100
+Eternal,Going to temple,50
+Checklist,Studying the scripture,100,0,1,100
